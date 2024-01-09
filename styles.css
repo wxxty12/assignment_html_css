@@ -16,6 +16,9 @@ body {
     font-size: 48px;
     font-weight: bold;
     color:darkolivegreen;
+    background-image: url(images/logo_background.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
     letter-spacing: 6px;
     text-align: center;
 
